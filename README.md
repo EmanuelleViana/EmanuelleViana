@@ -1,5 +1,7 @@
 
 ## Emanuelle Viana (aka Manu)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuelle-viana/)
+
 ### Hi there 👋 
 
 I'm Emanuelle, but you can call me Manu too. I love technology and a lot of lines of code 😄.
