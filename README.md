@@ -1,7 +1,7 @@
 
 ## Emanuelle Viana (aka Manu)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuelle-viana/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://emanuelleviana.github.io/portfolio/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge)](https://emanuelleviana.github.io/portfolio/index.html)
 
 ### Hello everyone!
 
