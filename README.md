@@ -17,7 +17,6 @@ Here are some things about me:
 - HTML
 - CSS
 
-🌱 I’m currently learning React
 
 💬 You can find me at...
 - [Linkedin](https://www.linkedin.com/in/emanuelle-viana/)
