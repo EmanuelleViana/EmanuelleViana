@@ -11,6 +11,7 @@ Here are some things about me:
 
 🔭 I’m currently working with the technologies...
 - Angular/Ionic
+- VueJs
 - Java
 - Hibernate
 - Typescript
